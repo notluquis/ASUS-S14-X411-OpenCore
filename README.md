@@ -12,7 +12,6 @@
 - BIOS revision: 308
 - Storage : SSD WDC WDS 120GB + HDD TOSHIBA MQ04ABF100 1TB.
 
-
 ## What works
 - Sleep/Wake (sometimes)
 - Sound
@@ -36,3 +35,4 @@
 - Default Wi-Fi card (QCA9377)
 - Realtek Card Reader (works only once)
 
+**REMEMBER YOU NEED TO ADD YOUR OWN SERIAL NUMBER!
