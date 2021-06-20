@@ -38,4 +38,7 @@
 - Default Wi-Fi card (QCA9377)
 - Realtek Card Reader (works only once)
 
+## Sources
+- Dortania's guide and et al.
+
 **REMEMBER YOU NEED TO ADD YOUR OWN SERIAL NUMBER!**
