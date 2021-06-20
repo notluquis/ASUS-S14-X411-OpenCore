@@ -1,4 +1,7 @@
 # ASUS VIVOBOOK S14 X411UF HACKINTOSH with OPENCORE
+
+**ATTENTION THIS EFI ONLY WORKS ON MONTERREY WITH CPUS=1 FLAG, IN BIG SUR WORKS WITHOUT THAT FLAG, SO YOU NEED TO DELETE THAT AND ENABLE SMCPROCCESOR IN THE KEXTS.**
+
 ## Specification
 - Model : ASUS X411UF
 - CPU : Intel Core i5-8250U
@@ -11,7 +14,6 @@
 - Touchpad : ASUS Precision Touchpad ELAN1300
 - BIOS revision: 308
 - Storage : SSD WDC WDS 120GB + HDD TOSHIBA MQ04ABF100 1TB.
-
 
 ## What works
 - Sleep/Wake (sometimes)
@@ -36,3 +38,8 @@
 - Default Wi-Fi card (QCA9377)
 - Realtek Card Reader (works only once)
 
+## Sources
+-  Dortania's guide and everyone involve.
+-  [hieplpvip](https://github.com/hieplpvip/Asus-Zenbook-Hackintosh) for initial EFI (0.6.4/5)
+
+**REMEMBER YOU NEED TO ADD YOUR OWN SERIAL NUMBER!**
