@@ -40,6 +40,6 @@
 
 ## Sources
 -  Dortania's guide and everyone involve.
--  @hielplpvip for initial EFI (0.6.4/5)
+-  [hieplpvip](https://github.com/hieplpvip/Asus-Zenbook-Hackintosh) for initial EFI (0.6.4/5)
 
 **REMEMBER YOU NEED TO ADD YOUR OWN SERIAL NUMBER!**
