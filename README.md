@@ -30,7 +30,7 @@
 
 ## Not tested 
 - Power Management
-- 
+
 ## Not working status
 - dGPU : Nvidia MX130 (disabled)
 - Default Wi-Fi card (QCA9377)
