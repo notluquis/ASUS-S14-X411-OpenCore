@@ -39,7 +39,7 @@
 - Realtek Card Reader (works only once)
 
 ## Sources
-- Dortania's guide and et al.
-- 
+-  Dortania's guide and everyone involve.
+-  @hielplpvip for initial EFI (0.6.4/5)
 
 **REMEMBER YOU NEED TO ADD YOUR OWN SERIAL NUMBER!**
