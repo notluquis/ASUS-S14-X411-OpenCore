@@ -14,7 +14,7 @@
 
 
 ## What works
-- -Sleep/Wake (sometimes)
+- Sleep/Wake (sometimes)
 - Sound
 - Wi-FI (with Fenvi card)
 - Bluetooth (with poor range, 4.0 BT)
