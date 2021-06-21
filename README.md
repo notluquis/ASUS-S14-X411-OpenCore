@@ -1,5 +1,7 @@
 # ASUS VIVOBOOK S14 X411UF HACKINTOSH with OPENCORE
 
+Works with MacOS 12 Monterrey, not tested with Big Sur.
+
 ## Specification
 - Model : ASUS X411UF
 - CPU : Intel Core i5-8250U
@@ -27,9 +29,7 @@
 - Siri
 - Battery Status
 - Fn keys
-
-## Not tested 
-- Power Management
+- Power Management.
 
 ## Not working status
 - dGPU : Nvidia MX130 (disabled)
