@@ -1,6 +1,6 @@
 # ASUS VIVOBOOK S14 X411UF HACKINTOSH with OPENCORE
 
-Works with MacOS 12 Monterrey, not tested with Big Sur.
+Works with MacOS 12 Monterrey, not tested on Big Sur.
 
 ## Specification
 - Model : ASUS X411UF
