@@ -1,7 +1,5 @@
 # ASUS VIVOBOOK S14 X411UF HACKINTOSH with OPENCORE
 
-**ATTENTION THIS EFI ONLY WORKS ON MONTERREY WITH CPUS=1 FLAG, IN BIG SUR WORKS WITHOUT THAT FLAG, SO YOU NEED TO DELETE THAT AND ENABLE SMCPROCCESOR IN THE KEXTS.**
-
 ## Specification
 - Model : ASUS X411UF
 - CPU : Intel Core i5-8250U
@@ -40,6 +38,7 @@
 
 ## Sources
 -  Dortania's guide and everyone involve.
--  [hieplpvip](https://github.com/hieplpvip/Asus-Zenbook-Hackintosh) for initial EFI (0.6.4/5)
+-  [hieplpvip](https://github.com/hieplpvip/Asus-Zenbook-Hackintosh) for initial EFI (0.6.4/5) and video memory problem. (PCI and framebuffer)
+- cputscsync problem solved thanks to [anonymous-writer](https://github.com/acidanthera/bugtracker/issues/1676) and the respective forum.
 
 **REMEMBER YOU NEED TO ADD YOUR OWN SERIAL NUMBER!**
