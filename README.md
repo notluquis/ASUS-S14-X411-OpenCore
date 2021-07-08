@@ -1,6 +1,6 @@
-# ASUS VIVOBOOK S14 X411UF HACKINTOSH with OPENCORE 0.7.0
+# ASUS VIVOBOOK 14 X411UF HACKINTOSH with OPENCORE 0.7.1
 
-Works with MacOS 12 Monterrey, not tested on Big Sur.
+Works with MacOS 12 Monterrey, not tested on Big Sur. *Delete TSCAdjustReset.kext on Big Sur.
 
 ## Specification
 - Model : ASUS X411UF
@@ -16,7 +16,6 @@ Works with MacOS 12 Monterrey, not tested on Big Sur.
 - Storage : SSD WDC WDS 120GB + HDD TOSHIBA MQ04ABF100 1TB.
 
 ## What works
-- Sleep/Wake (sometimes)
 - Sound
 - Wi-FI (with Fenvi card)
 - Bluetooth (with poor range, 4.0 BT)
@@ -35,6 +34,7 @@ Works with MacOS 12 Monterrey, not tested on Big Sur.
 - dGPU : Nvidia MX130 (disabled)
 - Default Wi-Fi card (QCA9377)
 - Realtek Card Reader (works only once)
+- Sleep/Wake (on Monterey)
 
 ## Sources
 -  Dortania's guide and everyone involve.
