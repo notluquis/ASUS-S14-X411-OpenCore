@@ -42,3 +42,6 @@ Works with MacOS 12 Monterrey, not tested on Big Sur. *Delete TSCAdjustReset.kex
 - cputscsync problem solved thanks to [anonymous-writer](https://github.com/acidanthera/bugtracker/issues/1676) and the respective forum.
 
 **REMEMBER YOU NEED TO ADD YOUR OWN SERIAL NUMBER!**
+
+![Information](https://github.com/itsluquis/ASUS-S14-X411-OpenCore/blob/main/Images/Info.png)
+![PCI Devices](https://github.com/itsluquis/ASUS-S14-X411-OpenCore/blob/main/Images/PCI%20devices.png)
