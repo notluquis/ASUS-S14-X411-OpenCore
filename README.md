@@ -1,6 +1,6 @@
-# ASUS VIVOBOOK 14 X411UF HACKINTOSH with OPENCORE 0.7.1
+# ASUS VIVOBOOK 14 X411UF HACKINTOSH with OPENCORE 1.0.0
 
-Works with MacOS 12 Monterrey, not tested on Big Sur. *Delete TSCAdjustReset.kext on Big Sur.
+Works with MacOS 14 Sonoma. *Delete TSCAdjustReset.kext on Big Sur.
 
 ## Specification
 - Model : ASUS X411UF
@@ -10,14 +10,14 @@ Works with MacOS 12 Monterrey, not tested on Big Sur. *Delete TSCAdjustReset.kex
 - iGPU : Intel UHD 620
 - dGPU : Nvidia MX130 (disabled)
 - Ethernet Card: NO
-- Wifi/BT Card: QCA9377, replaced with Fenvi BCM94360NG (bought on Aliexpress)
+- Wifi/BT Card: QCA9377, replaced with Intel(R) Dual Band Wireless-AC 3168
 - Touchpad : ASUS Precision Touchpad ELAN1300
 - BIOS revision: 308
 - Storage : SSD WDC WDS 120GB + HDD TOSHIBA MQ04ABF100 1TB.
 
 ## What works
 - Sound
-- Wi-FI (with Fenvi card)
+- Wi-FI (with Intel card)
 - Bluetooth (with poor range, 4.0 BT)
 - HDMI
 - USB A & C ports
