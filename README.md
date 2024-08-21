@@ -1,4 +1,4 @@
-# ASUS VIVOBOOK 14 X411UF HACKINTOSH with OPENCORE 0.7.1
+# ASUS VIVOBOOK 14 X411UF HACKINTOSH with OPENCORE 1.0.0
 
 Works with MacOS 14 Sonoma. *Delete TSCAdjustReset.kext on Big Sur.
 
